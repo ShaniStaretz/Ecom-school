@@ -1,3 +1,7 @@
-# Ecom-school
+# Sunday 01.09.2024
 AI developer course by Ecom school
-each lecture will be in new brunch with name of the lecture's date
+
+Each lecture will be in new brunch with name of the lecture's date
+
+1) In the lecture we learn the usage of git
+2) adding last python and diagrams files

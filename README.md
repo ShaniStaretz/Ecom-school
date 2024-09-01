@@ -3,10 +3,19 @@ AI developer course by Ecom school
 
 Each lecture will be in new brunch with name of the lecture's date.
 
-1) In the lecture we learn the usage of git: only create repo, commit, drag &drop files.
+In the lecture we learnt:
+1) The usage of git: only create repo, commit, drag &drop files.
 2) type str-intro, type float -decimal number, function type().
-3) Learn if,else,elif
-
+3) how to get number type from input():
+```
+     year_birth:int=int(input("enter your birth year:\n"))
+```
+4) concat string:
+   can't concat string to number
+```
+   "p"+"ython"
+    "python_"*3
+```
 
 **known writing rules**:
 

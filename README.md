@@ -11,19 +11,18 @@ In the lecture we learnt:
      year_birth:int=int(input("enter your birth year:\n"))
 ```
 4) concat string:
+
    can't concat string to number
 ```
-   "p"+"ython"
-    "python_"*3
+   "p"+"ython";"python_"*3
 ```
+5)if-else- intro
 
 **known writing rules**:
 
 ## must: 
-
   
-  
-  no spaces in parameters, no capital letters in the beginning of the word. can be with "_"  between (my_address) or with capital letter to separate words (myAddress)
+no spaces in parameters, no capital letters in the beginning of the word. can be with "_"  between (my_address) or with capital letter to separate words (myAddress)
 
 ## recommended:
 
